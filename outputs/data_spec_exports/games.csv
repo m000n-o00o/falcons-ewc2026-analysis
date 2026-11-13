@@ -1,0 +1,24 @@
+replay_id,match_date,series,opponent,falcons_goals,opponent_goals,falcons_won
+923c494c-78f1-4f5a-9493-e8d3e7a4b92e,2026-08-12 14:14:54+02:00,r8-vs-flcn-4jeuhpkpdy,R8,1,0,True
+860186a2-6f99-4e5b-aa1d-e84b33fd4a9d,2026-08-12 14:24:16+02:00,r8-vs-flcn-4jeuhpkpdy,R8,2,1,True
+075ad706-291c-4e83-861f-7ee191555dac,2026-08-12 14:31:48+02:00,r8-vs-flcn-4jeuhpkpdy,R8,1,2,False
+e7e3da69-0a47-4c43-b47a-e16527e8d46b,2026-08-12 14:40:12+02:00,r8-vs-flcn-4jeuhpkpdy,R8,5,1,True
+623b116f-6d2e-4329-a3eb-a58d45347cab,2026-08-13 13:11:54+02:00,flcn-vs-m8-qszrcck260,M8,2,0,True
+0ad20079-435b-4a21-889a-e5e7ac42d327,2026-08-13 13:19:53+02:00,flcn-vs-m8-qszrcck260,M8,2,1,True
+710d4e87-6dbd-4509-8a3a-c1002aae0dae,2026-08-13 13:27:49+02:00,flcn-vs-m8-qszrcck260,M8,1,3,False
+64749355-0867-456d-9656-2501085a0903,2026-08-13 13:37:52+02:00,flcn-vs-m8-qszrcck260,M8,1,2,False
+31848ff0-b4d6-448e-9bf8-c402182b06e0,2026-08-13 13:47:29+02:00,flcn-vs-m8-qszrcck260,M8,3,2,True
+703177c8-1376-4508-8363-8efafe72ca55,2026-08-15 18:51:09+02:00,flcn-vs-tm-37y0c4e0wi,TM,2,0,True
+e1e3c60b-6819-424f-af7e-98b1734295ef,2026-08-15 18:57:58+02:00,flcn-vs-tm-37y0c4e0wi,TM,0,1,False
+429db940-97b3-438b-a438-91fd7cf5a907,2026-08-15 19:07:25+02:00,flcn-vs-tm-37y0c4e0wi,TM,4,5,False
+962db691-857c-46c3-88f2-4a0a490d6e11,2026-08-15 19:18:51+02:00,flcn-vs-tm-37y0c4e0wi,TM,6,5,True
+88f3bf1b-aaf7-47b6-97a2-fe0bbfbfb4c7,2026-08-15 19:26:51+02:00,flcn-vs-tm-37y0c4e0wi,TM,1,0,True
+99ecb669-54fc-4ea3-961c-15c17c6fbb57,2026-08-15 19:35:21+02:00,flcn-vs-tm-37y0c4e0wi,TM,4,2,True
+b14d50eb-8433-4f1a-a2bf-e07388facdba,2026-08-16 17:35:38+02:00,kc-vs-flcn-1fbqk0yar1,KC,6,3,True
+f3ebd2a8-2bef-4851-9227-9c38d2def528,2026-08-16 17:42:37+02:00,kc-vs-flcn-1fbqk0yar1,KC,1,0,True
+dc254346-21d4-4db0-b78b-85d9c8fdb7bd,2026-08-16 17:50:44+02:00,kc-vs-flcn-1fbqk0yar1,KC,1,0,True
+980a8fe6-6eb8-45e6-b21e-d6baff5017bc,2026-08-16 17:59:02+02:00,kc-vs-flcn-1fbqk0yar1,KC,3,2,True
+93dbe6be-a1fa-42d0-bc8a-163948603770,2026-08-16 19:49:57+02:00,grand-finals-tams2b1l9y,SSG,3,2,True
+a140ecb8-c8d8-40a3-8ec3-64c60aa1f87b,2026-08-16 19:57:52+02:00,grand-finals-tams2b1l9y,SSG,3,1,True
+c312ad62-6e52-4b72-a20c-415f24790379,2026-08-16 20:07:09+02:00,grand-finals-tams2b1l9y,SSG,4,1,True
+5b23babf-e452-4fa1-b3a1-93c910176894,2026-08-16 20:14:45+02:00,grand-finals-tams2b1l9y,SSG,3,0,True

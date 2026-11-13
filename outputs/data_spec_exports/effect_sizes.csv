@@ -1,0 +1,13 @@
+metric,effect_size
+pct_defensive_third,0.5
+shots,0.47
+boost_stolen,-0.47
+dist_to_mates,0.39
+pct_zero_boost,-0.34
+pct_offensive_third,-0.32
+boost_bpm,-0.28
+avg_speed,-0.22
+saves,0.22
+pct_supersonic,-0.16
+demos_inflicted,0.0
+demos_taken,0.0

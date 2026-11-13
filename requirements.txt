@@ -1,0 +1,8 @@
+python-ballchasing
+cs2api
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+python-dotenv
