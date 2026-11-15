@@ -6,7 +6,9 @@ A portfolio project by **Sarah** (data collection and analysis) and **Rahma** (U
 
 ## Dashboard
 
-**[Open the interactive dashboard](https://m000n-o00o.github.io/falcons-ewc2026-analysis/dashboard/)**: results, tournament progression, winners vs losers, and Falcons vs each opponent. Designed by Rahmah; the web version reads the CSV files in `outputs/data_spec_exports/`.
+**[Open the interactive dashboard](https://m000n-o00o.github.io/falcons-ewc2026-analysis/dashboard/)**: results, tournament progression, winners vs losers, and Falcons vs each opponent. Designed by Rahma; the web version reads the CSV files in `outputs/data_spec_exports/`. 
+
+**[Open the Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwZWRjYTgtZTNhZS00YTc0LWFlMGItZDdiNDcyMWMzYTVlIiwidCI6Ijc5YTA1N2ZiLWIwZDUtNDRkZC04ZjkwLTBiZjcxNTFmNWMzZiIsImMiOjl9&pageName=home)**: the same dashboard built in Power BI, with role-based views for the executive, team manager and coach. The file is in `dashboard/`.
 
 ## Scope (v1)
 
