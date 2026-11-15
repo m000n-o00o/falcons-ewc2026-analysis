@@ -2,7 +2,7 @@
 
 What separates winning teams from losing ones in Rocket League, and where does Team Falcons (Saudi Arabia) stand against the teams it faced at the Esports World Cup 2026?
 
-A portfolio project by **Sarah** (data collection and analysis) and **Rahmah** (UX/UI and dashboard design). This repository contains the data pipeline and analysis. The dashboard is built separately on top of the exported tables.
+A portfolio project by **Sarah** (data collection and analysis) and **Rahma** (UX/UI and dashboard design). This repository contains the data pipeline and analysis. The dashboard is built separately on top of the exported tables.
 
 ## Dashboard
 
