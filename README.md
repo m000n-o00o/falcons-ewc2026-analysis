@@ -101,3 +101,7 @@ Then run the notebooks in order (01, 02, 03) from the `notebooks/` folder.
 
 - Ballchasing replay groups: [Group B](https://ballchasing.com/group/group-b-rxo17twtow), [Playoffs](https://ballchasing.com/group/playoffs-98hmgz7iw3)
 - Results verified on [Liquipedia](https://liquipedia.net/rocketleague/Esports_World_Cup/2026)
+
+
+## Disclaimer
+This is an independent, unofficial portfolio project. It is not affiliated with, endorsed by, or sponsored by Team Falcons, the Esports World Cup (EWC), Psyonix, Ballchasing, or Liquipedia. All team names, logos, and trademarks belong to their respective owners. Data comes from public replay statistics on Ballchasing and is used for analysis and educational purposes only.
